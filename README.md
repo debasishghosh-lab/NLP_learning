@@ -26,12 +26,7 @@ A structured NLP learning repository documenting my journey from NLP fundamental
 - Transformers
 - BERT
 
-## Progress
 
-- [x] Day 1 - Introduction to NLP
-- [x] Day 2 - Vectorization Techniques
-- [ ] Day 3
-- [ ] Day 4
 
 ## Author
 
